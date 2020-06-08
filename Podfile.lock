@@ -1,0 +1,16 @@
+PODS:
+  - Printer (0.0.1)
+
+DEPENDENCIES:
+  - Printer (from `./`)
+
+EXTERNAL SOURCES:
+  Printer:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  Printer: 8afedd609d647ea2a977288cde3c28eedb14df9a
+
+PODFILE CHECKSUM: 6e9f675757f0c7214920b69b9ec3f0308c118f74
+
+COCOAPODS: 1.8.4
